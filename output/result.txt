@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-31 18:29:21,url
+2025-01-01 06:23:13,url
 央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -10,7 +10,7 @@ CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV-1,http://120.55.49.231:5898/rtp/233.50.201.99:5140$浙江电信组播源
 CCTV-1,http://123.56.129.203:7637/rtp/225.1.8.1:8008$组播源
 CCTV-1,http://nas.hssvm.com:8888/udp/225.1.1.120:5002$订阅源|1920x1080
-CCTV-1,http://114.83.223.132:9999/udp/239.45.3.145:5140$订阅源|1920x1080
+CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
 CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-2,http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -59,7 +59,7 @@ CCTV-5+,http://120.55.49.231:5898/rtp/233.50.201.220:5140$浙江电信组播源
 CCTV-5+,http://122.9.151.210:2498/rtp/238.255.2.185:5999$组播源
 CCTV-5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5p$订阅源
 CCTV-5+,http://59.173.243.210:9901/tsfile/live/1021_1.m3u8$订阅源
-CCTV-5+,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265016$订阅源
+CCTV-5+,http://117.27.190.42:9998/tsfile/live/23248_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-6,http://220.249.114.102:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -69,7 +69,7 @@ CCTV-6,http://120.55.49.231:5898/rtp/233.50.201.18:5140$浙江电信组播源
 CCTV-6,http://123.56.129.203:7637/rtp/225.1.8.90:8000$组播源
 CCTV-6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8$订阅源
 CCTV-6,http://123.138.22.30:9901/tsfile/live/0006_1.m3u8$订阅源
-CCTV-6,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265006$订阅源
+CCTV-6,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=no$订阅源
 CCTV-7,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-7,http://220.249.114.102:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-7,http://120.55.49.231:5898/rtp/233.50.201.120:5140$浙江电信组播源
@@ -126,9 +126,9 @@ CCTV-12,http://[2409:8087:74F1:0021::0008]:80/270000001322/699001580411111000000
 CCTV-12,http://120.55.49.231:5898/rtp/233.50.201.123:5140$浙江电信组播源
 CCTV-12,http://120.55.49.231:5898/rtp/233.50.201.12:5140$浙江电信组播源
 CCTV-12,http://123.56.129.203:7637/rtp/225.1.8.112:8232$组播源
-CCTV-12,http://222.243.221.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-12,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv12$订阅源
 CCTV-12,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=no$订阅源
+CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8$订阅源
 CCTV-13,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-13,http://220.249.114.102:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -138,7 +138,7 @@ CCTV-13,http://[2409:8087:1a0a:df::402d]:80/wh7f454c46tw1865416231_2120705273/ot
 CCTV-13,http://120.55.49.231:5898/rtp/233.50.201.246:5140$浙江电信组播源
 CCTV-13,http://120.55.49.231:5898/rtp/233.50.201.13:5140$浙江电信组播源
 CCTV-13,http://123.56.129.203:7637/rtp/225.1.8.168:8130$组播源
-CCTV-13,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031108$订阅源
+CCTV-13,http://gslbserv.itv.cmvideo.cn/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3$订阅源
 CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-14,http://220.249.114.102:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -171,9 +171,9 @@ CCTV-17,http://120.55.49.231:5898/rtp/233.50.201.35:5140$浙江电信组播源
 CCTV-17,http://123.56.129.203:7637/rtp/225.1.8.117:8064$组播源
 CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313977963/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8?icpid=3&RTS=1674386157&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$订阅源|IPv6
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$订阅源|IPv6
-CCTV-17,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265015$订阅源
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$订阅源
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000268004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=no$订阅源
+CCTV-17,http://60.210.100.54:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CETV1,http://120.55.49.231:5898/rtp/233.50.201.75:5140$浙江电信组播源
 CETV2,http://122.9.151.210:6442/rtp/238.255.2.221:5999$贵州电信组播源
 CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
@@ -234,9 +234,9 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 吉林卫视,http://120.55.49.231:5898/rtp/233.50.201.48:5140$浙江电信组播源
 吉林卫视,http://[2409:8087:5e08:24::8]:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3$订阅源|IPv6
 吉林卫视,http://123.56.129.203:7637/rtp/225.1.8.153:8200$组播源
-吉林卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031117$订阅源
 吉林卫视,http://111.61.236.247:9081/hls/45/index.m3u8$订阅源
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8$订阅源
+吉林卫视,http://60.210.100.54:352/tsfile/live/0116_1.m3u8$订阅源
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 江苏卫视,http://220.249.114.102:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -254,9 +254,9 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 江西卫视,http://120.55.49.231:5898/rtp/233.50.201.145:5140$浙江电信组播源
 江西卫视,http://120.55.49.231:5898/rtp/233.50.201.53:5140$浙江电信组播源
 江西卫视,http://123.56.129.203:7637/rtp/225.1.1.9:8164$组播源
-江西卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265032$订阅源
 江西卫视,http://111.61.236.247:9081/hls/36/index.m3u8$订阅源
 江西卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=jxws$订阅源
+江西卫视,http://60.210.100.54:352/tsfile/live/0138_1.m3u8$订阅源
 辽宁卫视,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 辽宁卫视,http://220.249.114.102:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -269,10 +269,10 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 辽宁卫视,http://113.57.93.165:9900/tsfile/live/0121_1.m3u8$订阅源
 内蒙古卫视,http://220.249.114.102:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 内蒙古卫视,http://123.56.129.203:7637/rtp/225.1.8.156:8176$组播源
-内蒙古卫视,http://110.53.218.182:9902/tsfile/live/1007_1.m3u8$订阅源
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680$订阅源|1920x1080
 内蒙古卫视,http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1713969858&from=4&hms_devid=128&prioritypopid=4&online=1713969858&vqe=3$订阅源|IPv6
+内蒙古卫视,http://110.53.218.182:9902/tsfile/live/1007_1.m3u8$订阅源
 内蒙古卫视,http://60.210.100.54:352/tsfile/live/0109_1.m3u8$订阅源
-内蒙古卫视,http://111.61.236.247:9081/hls/48/index.m3u8$订阅源
 宁夏卫视,http://220.249.114.102:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 宁夏卫视,http://120.55.49.231:5898/rtp/233.50.201.57:5140$浙江电信组播源
 宁夏卫视,http://123.56.129.203:7637/rtp/225.1.8.159:8124$组播源
@@ -297,7 +297,7 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 山东卫视,http://123.56.129.203:7637/rtp/225.1.8.138:8148$组播源
 山东卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3$订阅源
 山东卫视,http://119.163.199.98:9901/tsfile/live/0016_1.m3u8$订阅源
-山东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265019$订阅源
+山东卫视,http://60.210.100.54:352/tsfile/live/0131_1.m3u8$订阅源
 山西卫视,http://220.249.114.102:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 山西卫视,http://120.55.49.231:5898/rtp/233.50.201.51:5140$浙江电信组播源
 山西卫视,http://123.56.129.203:7637/rtp/225.1.8.155:8172$组播源
@@ -317,9 +317,9 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 四川卫视,http://120.55.49.231:5898/rtp/233.50.201.139:5140$浙江电信组播源
 四川卫视,http://120.55.49.231:5898/rtp/233.50.201.61:5140$浙江电信组播源
 四川卫视,http://123.56.129.203:7637/rtp/225.1.8.142:8288$组播源
-四川卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006119$订阅源
 四川卫视,http://123.182.60.29:9002/hls/36/index.m3u8$订阅源
 四川卫视,http://60.210.100.54:352/tsfile/live/0123_1.m3u8$订阅源
+四川卫视,http://123.138.22.30:9901/tsfile/live/0123_1.m3u8$订阅源
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 深圳卫视,http://220.249.114.102:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -328,8 +328,8 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 深圳卫视,http://120.55.49.231:5898/rtp/233.50.201.101:5140$浙江电信组播源
 深圳卫视,http://120.55.49.231:5898/rtp/233.50.201.45:5140$浙江电信组播源
 深圳卫视,http://123.56.129.203:7004/rtp/225.1.8.145:9244$组播源
-深圳卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265028$订阅源
 深圳卫视,http://119.163.199.98:9901/tsfile/live/0126_1.m3u8$订阅源
+深圳卫视,http://123.138.22.30:9901/tsfile/live/0126_1.m3u8$订阅源
 三沙卫视,http://220.249.114.102:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 三沙卫视,http://123.56.129.203:2604/rtp/225.1.8.78:4120$组播源
 三沙卫视,http://139.196.151.191:7549/rtp/239.45.1.82:5140$组播源
@@ -351,9 +351,9 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 西藏卫视,http://220.249.114.102:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 西藏卫视,http://120.55.49.231:5898/rtp/233.50.201.70:5140$浙江电信组播源
 西藏卫视,http://123.56.129.203:7637/rtp/225.1.8.160:8164$组播源
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源|1920x1080
 西藏卫视,http://111.61.236.247:9081/hls/52/index.m3u8$订阅源
 西藏卫视,http://123.138.22.30:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+西藏卫视,http://60.210.100.54:352/tsfile/live/0111_1.m3u8$订阅源
 新疆卫视,http://220.249.114.102:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 新疆卫视,http://123.56.129.203:7004/rtp/225.1.8.161:8160$组播源
 新疆卫视,http://123.56.129.203:4310/rtp/225.1.8.161:8160$组播源
@@ -396,10 +396,10 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 东南卫视,http://123.166.61.70:8003/hls/53/index.m3u8$订阅源
 甘肃卫视,http://220.249.114.102:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 甘肃卫视,http://123.56.129.203:7637/rtp/225.1.8.162:8188$组播源
-甘肃卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031121$订阅源
-甘肃卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8$订阅源|IPv6
 甘肃卫视,http://123.138.22.30:9901/tsfile/live/0141_1.m3u8$订阅源
+甘肃卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8$订阅源|IPv6
 甘肃卫视,http://61.173.144.157:9901/tsfile/live/0113_1.m3u8$订阅源
+甘肃卫视,http://111.61.236.247:9081/hls/54/index.m3u8$订阅源
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://220.249.114.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://120.55.49.231:5898/rtp/233.50.201.49:5140$浙江电信组播源
@@ -414,9 +414,9 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 湖北卫视,http://120.55.49.231:5898/rtp/233.50.201.114:5140$浙江电信组播源
 湖北卫视,http://120.55.49.231:5898/rtp/233.50.201.43:5140$浙江电信组播源
 湖北卫视,http://123.56.129.203:7637/rtp/225.1.8.146:8136$组播源
-湖北卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265023$订阅源
 湖北卫视,http://60.210.100.54:352/tsfile/live/0132_1.m3u8$订阅源
 湖北卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=hubws$订阅源
+湖北卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=no$订阅源
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 黑龙江卫视,http://116.128.242.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 黑龙江卫视,http://220.249.114.102:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -433,9 +433,9 @@ CETV4,http://120.55.49.231:5898/rtp/233.50.200.162:5140$浙江电信组播源
 安徽卫视,http://120.55.49.231:5898/rtp/233.50.201.113:5140$浙江电信组播源
 安徽卫视,http://120.55.49.231:5898/rtp/233.50.201.62:5140$浙江电信组播源
 安徽卫视,http://123.56.129.203:7637/rtp/225.1.8.135:8272$组播源
-安徽卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265025$订阅源
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8$订阅源
 安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+安徽卫视,http://123.166.61.70:8003/hls/55/index.m3u8$订阅源
 重庆卫视,http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 重庆卫视,http://220.249.114.102:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
